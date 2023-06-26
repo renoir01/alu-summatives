@@ -1,0 +1,3 @@
+{STUDENTEMAIL:r.kaze@alustudent.com, AGE:34, STUDENTID:32345}
+{STUDENTEMAIL:renoirkz@gmail.com, AGE:32, STUDENTID:34456}
+{STUDENTEMAIL:onolo.gmail.com, AGE:34, STUDENTID:32456}
